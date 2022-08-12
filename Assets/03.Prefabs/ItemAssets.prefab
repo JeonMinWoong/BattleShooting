@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4180279284405703797
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4180279284405703755}
+  - component: {fileID: 4180279284405703754}
+  m_Layer: 0
+  m_Name: ItemAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4180279284405703755
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4180279284405703797}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 9.422793, y: 2.8279521, z: -5.513963}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4180279284405703754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4180279284405703797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c210df7d90d67b4db6f2a083ba505b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m4sprite: {fileID: 21300000, guid: 73531467922a9cf438981e04068e808e, type: 3}
+  pfitemM4: {fileID: 8287553595247066094, guid: f6e4d71a715343f4a871a9d91dbb103b,
+    type: 3}
+  pistolsprite: {fileID: 21300000, guid: 8adc0a9b1692fca4897387760799a156, type: 3}
+  pfitemPistol: {fileID: 6263287083523199961, guid: b931324fa10c6644ca7454aa1dc7f3b1,
+    type: 3}
+  Uzisprite: {fileID: 21300000, guid: 7671e42d21774d042b169a35aaf8e258, type: 3}
+  pfitemUzi: {fileID: 1084726848501209843, guid: b45fd7f39e3e7064fa09af14278f96c5,
+    type: 3}
+  Smawsprite: {fileID: 21300000, guid: b05224d9ec022b14ea23abc90394dae1, type: 3}
+  pfitemSmaw: {fileID: 3022542679104680120, guid: f09ab13142245a2458ee8af1eeaf5f8e,
+    type: 3}
+  shootgunsprite: {fileID: 21300000, guid: a45c1c08aea5f1e49bd6a7e323f2c522, type: 3}
+  pfitemshogun: {fileID: 1760540308043238162, guid: 97d8cd0a575f2294aa057de85167b594,
+    type: 3}
+  snipersprite: {fileID: 21300000, guid: b1906d8230531ef4b9585caf999c03b8, type: 3}
+  pfitemsniper: {fileID: 4103666877345144744, guid: af6b1d9dd809444428e5293924413a45,
+    type: 3}
+  gatlingsprite: {fileID: 21300000, guid: 17b798ebeab9d1845b69a19d7b3a1921, type: 3}
+  pfitemGatling: {fileID: 645730150310351270, guid: d4bbd8203542ee84e8466bcc34894797,
+    type: 3}
+  aksprite: {fileID: 21300000, guid: 6a196f369cb40d44e9af6fc5232a5b24, type: 3}
+  pfitemAk: {fileID: 8629553725751920281, guid: 992282b26343dc04dbd915f2e73344e0,
+    type: 3}
+  lasersprite: {fileID: 21300000, guid: b46ca8a45a3b60d459219b8fb61d9c3f, type: 3}
+  pfitemLaser: {fileID: 2868946058673016740, guid: 4edf5be910edc434682cad2bb165c270,
+    type: 3}
+  LightGunsprite: {fileID: 21300000, guid: 94e36235c42cb494288dcb3afb02daaf, type: 3}
+  pfitemLightGun: {fileID: 3834803741807896522, guid: 797f0368e379dd74a81755424ccf8c97,
+    type: 3}
+  gLsprite: {fileID: 21300000, guid: d949217388cffb7469baa6c3e4b185b9, type: 3}
+  pfitemGL: {fileID: 1845083001716543294, guid: 127386cf5f62d1e4a8cf905c3d146b7c,
+    type: 3}
+  hellwailersprite: {fileID: 21300000, guid: d5ef2dcf4371f1b46b624055baad9fb7, type: 3}
+  pfitemHellwailer: {fileID: 8846930647284746303, guid: a067561393bb67a42ab89a854fbf56ba,
+    type: 3}
+  grenadeSprite: {fileID: 21300000, guid: 93adb80b9697e2947b4d61e569284019, type: 3}
+  mineSprite: {fileID: 21300000, guid: bffb8578001f6f6479a91ef4f9e83617, type: 3}
+  smokeSprite: {fileID: 21300000, guid: e5ff8f8cff040404baace4800b5e92c4, type: 3}
+  flashSprite: {fileID: 21300000, guid: 50c0e34e038b8ee42aca71e4f1d9b713, type: 3}
+  painkillerSprite: {fileID: 21300000, guid: 513064fa3dd0f4e43af6b1e0ceca668e, type: 3}
+  speedSprite: {fileID: 21300000, guid: fc9515649cb3e40f7bae63564fce1fb2, type: 3}
+  shieldSprite: {fileID: 21300000, guid: 7a97e285a7f1e44938910bd49925c9d8, type: 3}
+  telepoSprite: {fileID: 21300000, guid: 2fd9b6411a9f54fa096bcb9b5082d81f, type: 3}
+  red: {fileID: 21300000, guid: b1d03668ea891406e9cd884f85a0252f, type: 3}
+  green: {fileID: 21300000, guid: ba5c1c80ca0e643649aee457a6fd7369, type: 3}
+  blue: {fileID: 21300000, guid: b6a18a999eb8a4fb8814bdcf49b03a72, type: 3}
+  attackPlusSprite: {fileID: 21300000, guid: 8c740db2cb9eaef4595bb9d3939d0c0e, type: 3}
+  bulletSpeedSprite: {fileID: 21300000, guid: db1889e9ba4e71e4482b22ff0e2f61c5, type: 3}
+  grenadeRangeSprite: {fileID: 21300000, guid: 08c171b81836afa49b7a58c5e088c473, type: 3}
+  attackSpeedSprite: {fileID: 21300000, guid: 8c740db2cb9eaef4595bb9d3939d0c0e, type: 3}
+  bulletSizeSprite: {fileID: 21300000, guid: db1889e9ba4e71e4482b22ff0e2f61c5, type: 3}
+  gunMasterSprite: {fileID: 21300000, guid: 8c740db2cb9eaef4595bb9d3939d0c0e, type: 3}
+  SpeedPlusSprite: {fileID: 21300000, guid: 3b5b486ddcd4043e2b0a4e5f3a5120b5, type: 3}
+  heathRecoverySprite: {fileID: 21300000, guid: 02261a6960a456143bae0a0fe7ce3aa4,
+    type: 3}
+  moneyPlusSprite: {fileID: 21300000, guid: 698effdb976f6d049bd07f87f8ea5e14, type: 3}
+  bulletPlusSprite: {fileID: 21300000, guid: db1889e9ba4e71e4482b22ff0e2f61c5, type: 3}
+  counsumPlusprite: {fileID: 21300000, guid: 141f9cd2b688541f7a6ec2e52cc5e736, type: 3}
+  utiltyMasterSprite: {fileID: 21300000, guid: 9f75911fd3ede40af86a7142f0392555, type: 3}
+  basicShieldSprite: {fileID: 21300000, guid: 7a97e285a7f1e44938910bd49925c9d8, type: 3}
+  defensePlusSprite: {fileID: 21300000, guid: 43de828e14ea53a4b818a8363da1b2c9, type: 3}
+  maxHealthSprite: {fileID: 21300000, guid: a9c30325be8f92346aeaa62b72a34dc9, type: 3}
+  shieldRegenSprite: {fileID: 21300000, guid: 7a97e285a7f1e44938910bd49925c9d8, type: 3}
+  hardArmorSprite: {fileID: 21300000, guid: 43de828e14ea53a4b818a8363da1b2c9, type: 3}
+  defenseMasterSprite: {fileID: 21300000, guid: 43de828e14ea53a4b818a8363da1b2c9,
+    type: 3}
+  XSprite: {fileID: 21300000, guid: d39501b085d2e4262864da757517d6dc, type: 3}

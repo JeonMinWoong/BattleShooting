@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32494328019",
+    "firebase_url": "https://battleshooting.firebaseio.com",
+    "project_id": "battleshooting",
+    "storage_bucket": "battleshooting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32494328019:android:3f42897b0cd094cf1b9c26",
+        "android_client_info": {
+          "package_name": "com.SKGGW.BattleShooting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32494328019-o2hjhr2em07lsgsoi8p92n51hosd8ot7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SKGGW.BattleShooting",
+            "certificate_hash": "51ae2770d40c7ed0c9b332ca56baeb261f9f68ad"
+          }
+        },
+        {
+          "client_id": "32494328019-ejtu9tgal4gn1sbde7fj5jkhaq3g1562.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD46Ly7bq_zo_Td6u6XQ3tplqDNhDoeWtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32494328019-ejtu9tgal4gn1sbde7fj5jkhaq3g1562.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
