@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Floar
+  - Environment
+  - DeathZon
+  - MapPlayer
+  - MapEnemy
+  - Item
+  - FxTemporaire
+  - EnemyAi
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floar
+  - Enemy
+  - Environment
+  - MapPlayer
+  - MapEnemy
+  - Player
+  - Item
+  - Bullet
+  - DeathZon
+  - MapSelect
+  - Arrow
+  - Grenade
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: eff
+    uniqueID: 2018118657
+    locked: 0
